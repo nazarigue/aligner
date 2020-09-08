@@ -1,8 +1,8 @@
 ################################# Hero #####################################
 hero:
   enable : true
-  title: Publish multilingual blog <br> in minutes for free
-  subtitle: Create multilingual blog in seconds, choose themes and publish online.
+  title: Publish multilingual blog<br>Easy and free
+  subtitle: Create, collaborate and publish. <br>Your blog in different languages one click away.
   buttontext: Start free now →
   buttonlink: https://app.aligner.io
   buttontext2:  learn more
@@ -13,7 +13,7 @@ hero:
 
 translations:
   enable: true
-  title: Write productively, save time.
+  title: Maximise your reach.<br>Work productively. Save time.
   subtitle: Kickstart you writing with instant machine translations, available in the editor.
   buttonlink: "#"
   buttonText: Start writing →
@@ -21,7 +21,7 @@ translations:
 ################################# Translations #####################################  
 workProductively:
   enable: true
-  title: Work productively
+  title: Get high quality content <br>done faster together
   subtitle: Update content in real-time, assign translations and manage <br> workflow instantly in one place.
   buttonlink: "#"
   buttonText: start working and invite people →
