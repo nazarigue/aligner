@@ -1,7 +1,7 @@
 ################################# Hero #####################################
 hero:
   enable : true
-  title: Publish multilingual blog in mintues <br> for free
+  title: Publish multilingual blog <br> in minutes for free
   subtitle: Create multilingual blog in seconds, choose themes and publish online.
   buttontext: Start free now →
   buttonlink: https://app.aligner.io
