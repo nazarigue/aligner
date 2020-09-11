@@ -18,7 +18,7 @@ params:
   description: Get more visitors with multilingual blog. Easily create content, invite collaborators and publish.
   navbarlogo:
     image: logo-new.png
-    link: "/en"
+    link: "/"
     alt: Aligner
   font:
     name: Poppins
