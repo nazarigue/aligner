@@ -25,31 +25,31 @@ params:
     sizes:
     - 400
     - 600
-#Languages:
+Languages:
   en:
     contentDir: content/english
     home: Home
     languageCode: en-us
     languageName: English
     weight: "1"
-  et:
-    enable: false
-    contentDir: content/estonian
-    home: Kodu
-    languageCode: et
-    languageName: Eesti keeles
-    weight: "2"
-    title: Aligner | Tasuta online tõlkeplatvorm.
-    params:
-      BookMenuBundle: "/menüü"
-      openGraph: true
-      description: Tasuta tõlkimine ja mitmekeelse sisu haldamine.
-      navbarlogo:
-        link: "/et"
-        alt: Aligner home page logo
-        image: logo-new.png
-      font:
-        name: Poppins
-        sizes:
-        - 400
-        - 600
+#  et:
+#    enable: false
+#    contentDir: content/estonian
+#    home: Kodu
+#    languageCode: et
+#    languageName: Eesti keeles
+#    weight: "2"
+#    title: Aligner | Tasuta online tõlkeplatvorm.
+#    params:
+#      BookMenuBundle: "/menüü"
+#      openGraph: true
+#      description: Tasuta tõlkimine ja mitmekeelse sisu haldamine.
+#      navbarlogo:
+#        link: "/et"
+#        alt: Aligner home page logo
+#        image: logo-new.png
+#      font:
+#        name: Poppins
+#        sizes:
+#        - 400
+#        - 600

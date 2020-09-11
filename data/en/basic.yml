@@ -34,10 +34,10 @@ footer:
     column2:
       title: Product
       links:
-      - text: Plans
-        link: "/pricing"
+#      - text: Plans
+#        link: "/pricing"
       - text: Blog
-        link: "/blog"
+        link: "https://app.aligner.io"
 #      - text: Features
 #        link: "/features/"
 #      - text: For Legal
@@ -56,7 +56,7 @@ footer:
       links:
       - text: Tutorials
         link: https://docs.aligner.io
-      - text: Blog
+      - text: Aligner Blog
         link: https://blog.aligner.io
      # - text: Aligner GO
      #   link: https://go.aligner.io
