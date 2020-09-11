@@ -1,16 +1,12 @@
 ################################# Nav #####################################
 
 navbar:
-- title: Features
-  url: "/features"
-- title: Pricing
-  url: "/pricing"
-- title: Blog
-  url: "/blog/"
-- title: Tutorials
-  url: "/tutorials"
-- title: Log in
-  url: https://app.aligner.io
+#- title: Blog
+#  url: "/blog/"
+#- title: Tutorials
+#  url: "/tutorials"
+#- title: Log in
+# url: https://app.aligner.io
 - title: Start free now →
   url: https://app.aligner.io
   button: true
@@ -30,11 +26,11 @@ footer:
       title: Legal
       links:
       - text: Privacy Policy
-        link: "/privacy-policy"
+        link: "https://legal.aligner.io/en/blog/p/privacy-policy"
       - text: Delivery Policy
-        link: "/delivery-policy"
+        link: "https://legal.aligner.io/en/blog/p/delivery-policy"
       - text: Terms of use
-        link: "/terms-of-use"
+        link: "https://legal.aligner.io/en/blog/p/terms-of-use"
     column2:
       title: Product
       links:
@@ -42,14 +38,27 @@ footer:
         link: "/pricing"
       - text: Blog
         link: "/blog"
-      - text: Features
-        link: "/features/"
+#      - text: Features
+#        link: "/features/"
+#      - text: For Legal
+#        link:
+#      - text: For Social Media
+#        link:
+#      - text: For Support
+#        link:
+#      - text: For Blog
+#        link:
+#      - text: For Knowledge Base
+#        link:
+#      - text: For Tutorials
     column3:
       title: Resources
       links:
-      - text: Aligner POOL
-        link: https://pool.aligner.io
-      - text: Aligner GO
-        link: https://go.aligner.io
-      - text: "Eesti Keeles \U0001F1EA\U0001F1EA"
-        link: "/et"
+      - text: Tutorials
+        link: https://docs.aligner.io
+      - text: Blog
+        link: https://blog.aligner.io
+     # - text: Aligner GO
+     #   link: https://go.aligner.io
+     # - text: "Eesti Keeles \U0001F1EA\U0001F1EA"
+     #   link: "/et"

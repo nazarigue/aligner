@@ -1,48 +1,47 @@
 ################################# Hero #####################################
 hero:
   enable : true
-  title: Publish multilingual blog <br> in minutes for free
-  subtitle: Create multilingual blog in seconds, choose themes and publish online.
+  title: Publish multilingual blog <br> in minutes
+  subtitle: Create, collaborate, edit and publish your web content simultaneously in 130+ languages
   buttontext: Start free now →
   buttonlink: https://app.aligner.io
   buttontext2:  learn more
   buttonlink2: 
-  image: hero.png
+  image: hero.svg
 
 ################################# Translations #####################################
 
 translations:
   enable: true
-  title: Write productively, save time.
-  subtitle: Kickstart you writing with instant machine translations, available in the editor.
-  buttonlink: "#"
-  buttonText: Start writing →
-  image: blog.png
+  title: Maximise your reach. <br>Work productively.<br> Save time.
+  subtitle: Pre-translate you text with Google V3 machine translation available in the editor.
+  buttonlink: https://app.aligner.io
+  buttonText: start working 
+  image: transition.png
 ################################# Translations #####################################  
 workProductively:
   enable: true
-  title: Work productively
+  title: Get high quality content done faster together
   subtitle: Update content in real-time, assign translations and manage <br> workflow instantly in one place.
-  buttonlink: "#"
+  buttonlink: https://app.aligner.io
   buttonText: start working and invite people →
   image: work-productively.png
 ################################# collaborators #####################################   
 collaborators:
   enable: true
-  title: Work on multilingual documents with ease
-  subtitle: Made for marketers and content creators.
   features:
   - title: Connect collaborators and content
-    text: Use just one link to invite taem members and collaborators to edit multilingual content simultaneosly in Aligner’s parallel editor
+    text: Use just one link to invite team members and collaborators to edit multilingual content simultaneosly in Aligner’s parallel editor
     image: "/images/share-document.svg"
     alt: 
     btnText: see it in action →
-    btnURL: #
+    btnURL: https://app.aligner.io
   - title: Publish directly
     text: Embed created content with illustrations and graphs as a link to your webpage or share via the public link.
     image: "/images/publish.svg"
     alt: 
     btnText: start working and invite people →
+    btnURL: https://app.aligner.io
 
  
 ################################# CTA #####################################   
@@ -52,7 +51,65 @@ CTA:
   subtitle: We make it easier
   text: It's free. No credit card required.
   btnText: give it a try →
-  btnURL: https://calendly.com/aligner/15min
-  btnKlass: 
-  clientlogos: 
-  ctaAlt: 
+  btnURL: https://app.aligner.io
+
+
+stunningTemplates:
+  enable: true
+  title: Choose from pre-built content types
+  description: Choose the right type and theme. Focus on content
+  allLink: "https://app.aligner.io"
+  allText: Go to themes  →
+  items:
+  - name : "Blog"
+    image : "images/stunning2.png"
+ #   info : "Perfect" 
+    link: "https://app.aligner.io"
+  - name : "Tutorials"
+    image : "images/stunning.png"
+ ##   info : "Psychologist" 
+    link: "https://app.aligner.io"
+  - name : "Legal Docs"
+    image : "images/stunning3.png"
+  #  info : "Psychologist" 
+    link: "https://app.aligner.io"
+  - name : "Support Docs"
+    image : "images/stunning4.png"
+#    info : "Psychologist" 
+    link: "https://app.aligner.io"
+  - name : "Knowledge base"
+    image : "images/stunning5.png"
+ #   info : "Psychologist" 
+    link: "https://app.aligner.io"
+  - name : "Social Media"
+    image : "images/stunning.png"
+  #  info : "Psychologist" 
+    link: "https://app.aligner.io"
+
+howTo:
+  enable: true
+  title: How to Create a Free Multilingual Blog 
+  description: Create multilingual blog in 4 simple steps today.
+  background: bg-gray
+  items:
+  - <strong>Create an account.</strong> Create new post and create content.
+  - <strong>Add new languages.</strong> You can use built-in machine translation.
+  - <strong>Share and invite.</strong> Collaborate on content with people.
+  - <strong>Publish and go live.</strong> You can add more languages later and update any time.
+  links:
+  - name:  Start now →
+    url:  "https://app.aligner.io"
+#  - name:  Learn More →
+#    url: "#"
+
+
+
+manage:
+  enable: true
+  title: Built-in multilingual SEO
+  description: Multilingual SEO is crucial. Share content in social media and be easily found in Google. Get more interactions by adding even more languages to your blog.
+  link: https://app.aligner.io
+  linkText: Get Started  →
+
+  background: bg-gray
+  image: "/images/social.jpeg"
