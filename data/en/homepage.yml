@@ -1,7 +1,7 @@
 ################################# Hero #####################################
 hero:
   enable : true
-  title: Publish multilingual blog <br> in minutes
+  title: Publish multilingual pages <br> in minutes
   subtitle: Create, collaborate, edit and publish your web content simultaneously in 130+ languages
   buttontext: Start free now →
   buttonlink: https://app.aligner.io
@@ -88,7 +88,7 @@ stunningTemplates:
 
 howTo:
   enable: true
-  title: How to Create a Free Multilingual Blog 
+  title: How to Create a Free Multilingual Page 
   description: Create multilingual blog in 4 simple steps today.
   background: bg-gray
   items:
