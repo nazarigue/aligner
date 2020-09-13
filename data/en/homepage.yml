@@ -2,7 +2,7 @@
 hero:
   enable : true
   title: Publish multilingual pages <br> in minutes
-  subtitle: Create, collaborate, edit and publish your web content simultaneously in 130+ languages
+  subtitle: Create, collaborate, update and publish your web content simultaneously in 130+ languages
   buttontext: Start free now →
   buttonlink: https://app.aligner.io
   buttontext2:  learn more
@@ -14,7 +14,7 @@ hero:
 translations:
   enable: true
   title: Maximise your reach. <br>Work productively.<br> Save time.
-  subtitle: Pre-translate you text with Google V3 machine translation available in the editor.
+  subtitle: Pre-translate your text with Google V3 machine translation available in the editor.
   buttonlink: https://app.aligner.io
   buttonText: start working 
   image: transition.png

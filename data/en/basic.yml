@@ -54,8 +54,8 @@ footer:
     column3:
       title: Resources
       links:
-      - text: Tutorials
-        link: https://docs.aligner.io
+    #  - text: Tutorials
+    #    link: https://docs.aligner.io
       - text: Aligner Blog
         link: https://blog.aligner.io/en/blog/
      # - text: Aligner GO
