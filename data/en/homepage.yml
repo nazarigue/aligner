@@ -56,8 +56,8 @@ CTA:
 
 stunningTemplates:
   enable: true
-  title: Choose from pre-built content types
-  description: Choose the right type and theme. Focus on content
+  title: Choose from pre-built page types
+  description: Choose the right theme. Focus on content.
   allLink: "https://app.aligner.io"
   allText: Go to themes  →
   items:
