@@ -1,13 +1,13 @@
 ################################# Hero #####################################
 hero:
   enable : true
-  title: Publish multilingual blog <br> in minutes
+  title: Publish multilingual pages <br> in minutes
   subtitle: Create, collaborate, update and publish your web content simultaneously in 130+ languages
   buttontext: Start free now →
   buttonlink: https://app.aligner.io
   buttontext2:  learn more
   buttonlink2: 
-  image: hero.svg
+  image: aligner.gif
 
 ################################# Translations #####################################
 
@@ -25,7 +25,7 @@ workProductively:
   subtitle: Edit content in real-time together with your co-writers and translators. <br> Keep multilingual content always aligned and manage your workflow in one place.
   buttonlink: https://app.aligner.io
   buttonText: start working and invite people →
-  image: aligner.gif
+  image: translate-edit.png
 ################################# collaborators #####################################   
 collaborators:
   enable: true
@@ -57,7 +57,7 @@ CTA:
 stunningTemplates:
   enable: true
   title: Choose the type of content
-  description: Themes to get started faster and focus on publishing multilingual content faster
+  description: Themes to get started and focus on publishing multilingual content faster
   allLink: "https://app.aligner.io"
   allText: Go to themes  →
   items:
@@ -88,12 +88,12 @@ stunningTemplates:
 
 howTo:
   enable: true
-  title: How to Create a Free Multilingual Page 
-  description: Create multilingual blog in 4 simple steps today.
+  title: How to create a free multilingual page 
+  description: 4 simple steps to get started today.
   background: bg-gray
   items:
-  - <strong>Create an account.</strong> Create new post and create content.
-  - <strong>Add new languages.</strong> You can use built-in machine translation.
+  - <strong>Create an account.</strong> Paste your text, add images.
+  - <strong>Choose languages.</strong> Use built-in machine translation.
   - <strong>Share and edit.</strong>  Collaborate on content with anyone.
   - <strong>Publish to your web.</strong> Update or add more languages any time.
   links:

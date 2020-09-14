@@ -7,7 +7,7 @@ navbar:
 #  url: "/tutorials"
 #- title: Log in
 # url: https://app.aligner.io
-- title: Start free now →
+- title: Go to app →
   url: https://app.aligner.io
   button: true
 footer:
@@ -31,13 +31,13 @@ footer:
         link: "https://legal.aligner.io/en/blog/p/delivery-policy"
       - text: Terms of use
         link: "https://legal.aligner.io/en/blog/p/terms-of-use"
-    column2:
-      title: Product
-      links:
+#    column2:
+ #     title: Product
+  #    links:
 #      - text: Plans
 #        link: "/pricing"
-      - text: Blog
-        link: "https://app.aligner.io"
+  #    - text: Blog
+   #     link: "https://app.aligner.io"
 #      - text: Features
 #        link: "/features/"
 #      - text: For Legal
@@ -51,14 +51,14 @@ footer:
 #      - text: For Knowledge Base
 #        link:
 #      - text: For Tutorials
-    column3:
-      title: Resources
-      links:
-    #  - text: Tutorials
-    #    link: https://docs.aligner.io
-      - text: Aligner Blog
-        link: https://blog.aligner.io/en/blog/
-     # - text: Aligner GO
-     #   link: https://go.aligner.io
-     # - text: "Eesti Keeles \U0001F1EA\U0001F1EA"
-     #   link: "/et"
+#    column3:
+#      title: Resources
+#      links:
+#    #  - text: Tutorials
+#    #    link: https://docs.aligner.io
+#      - text: Aligner Blog
+#        link: https://blog.aligner.io/en/blog/
+#     # - text: Aligner GO
+#     #   link: https://go.aligner.io
+#     # - text: "Eesti Keeles \U0001F1EA\U0001F1EA"
+#     #   link: "/et"
