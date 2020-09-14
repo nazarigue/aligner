@@ -13,8 +13,8 @@ hero:
 
 translations:
   enable: true
-  title: Maximise your reach. <br>Work productively.<br> Save time.
-  subtitle: Pre-translate your text with Google V3 machine translation available in the editor.
+  title: Align content, languages and teams
+  subtitle: Pre-translate your text with Google V3 machine translation available in the editor and invite internal or external members to write together.
   buttonlink: https://app.aligner.io
   buttonText: start working 
   image: transition.png
@@ -22,7 +22,7 @@ translations:
 workProductively:
   enable: true
   title: Get high quality content done faster together
-  subtitle: Update content in real-time, assign translations and manage <br> workflow instantly in one place.
+  subtitle: Edit content in real-time together with your co-writers and translators. <br> Keep multilingual content always aligned and manage your workflow in one place.
   buttonlink: https://app.aligner.io
   buttonText: start working and invite people →
   image: aligner.gif
@@ -56,8 +56,8 @@ CTA:
 
 stunningTemplates:
   enable: true
-  title: Choose from pre-built page types
-  description: Choose the right theme. Focus on content.
+  title: Choose the type of content
+  description: Themes to get started faster and focus on publishing multilingual content faster
   allLink: "https://app.aligner.io"
   allText: Go to themes  →
   items:
@@ -94,8 +94,8 @@ howTo:
   items:
   - <strong>Create an account.</strong> Create new post and create content.
   - <strong>Add new languages.</strong> You can use built-in machine translation.
-  - <strong>Share and invite.</strong> Collaborate on content with people.
-  - <strong>Publish and go live.</strong> You can add more languages later and update any time.
+  - <strong>Share and edit.</strong>  Collaborate on content with anyone.
+  - <strong>Publish to your web.</strong> Update or add more languages any time.
   links:
   - name:  Start now →
     url:  "https://app.aligner.io"
