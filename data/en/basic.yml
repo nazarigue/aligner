@@ -7,7 +7,7 @@ navbar:
 #  url: "/tutorials"
 #- title: Log in
 # url: https://app.aligner.io
-- title: Go to app →
+- title: Start translating →
   url: https://app.aligner.io
   button: true
 footer:
